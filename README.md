@@ -2,6 +2,7 @@
 
 **Guten Tag**
 
-* Hallo
+Das ist ein *Beispiel-Repository*
+
 
 
